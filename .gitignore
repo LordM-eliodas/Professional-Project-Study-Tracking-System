@@ -1,0 +1,289 @@
+# ============================================
+# Python
+# ============================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Distribution / packaging
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Installer output
+installer_output/
+*.iss.bak
+
+# ============================================
+# Virtual Environment
+# ============================================
+venv/
+ENV/
+env/
+.venv/
+virtualenv/
+pipenv/
+Pipfile.lock
+
+# ============================================
+# IDE / Editors
+# ============================================
+# VS Code
+.vscode/
+*.code-workspace
+
+# PyCharm
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Vim
+*.swp
+*.swo
+*~
+.vim/
+
+# Emacs
+*~
+\#*\#
+.\#*
+
+# ============================================
+# Operating System
+# ============================================
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+[Dd]esktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+*.lnk
+
+# Linux
+*~
+.directory
+.Trash-*
+.nfs*
+
+# ============================================
+# Application Specific
+# ============================================
+# Data files (keep structure, ignore content)
+data/*.json
+!data/.gitkeep
+!data/app_config.json.example
+
+# Log files
+*.log
+logs/
+*.log.*
+
+# Temporary files
+*.tmp
+*.bak
+*.old
+*.swp
+*.swo
+
+# ============================================
+# PyInstaller
+# ============================================
+# Spec files (generated, but keep template)
+*.spec
+!Crono_Ders_Takip_Sistemi.spec
+
+# Build artifacts
+build/
+*.manifest
+version_info.txt
+
+# ============================================
+# Testing
+# ============================================
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+.hypothesis/
+*.cover
+*.py,cover
+.cache
+nosetests.xml
+coverage.xml
+*.coveragerc
+
+# ============================================
+# Jupyter Notebook
+# ============================================
+.ipynb_checkpoints
+*.ipynb
+
+# ============================================
+# Environment Variables
+# ============================================
+.env
+.env.local
+.env.*.local
+*.env
+
+# ============================================
+# Database
+# ============================================
+*.db
+*.sqlite
+*.sqlite3
+
+# ============================================
+# Backup Files
+# ============================================
+*.backup
+*.bak
+*.old
+*~
+
+# ============================================
+# Archive Files
+# ============================================
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.7z
+
+# ============================================
+# Documentation Build
+# ============================================
+docs/_build/
+docs/.doctrees/
+site/
+
+# ============================================
+# Profiling
+# ============================================
+*.prof
+*.lprof
+
+# ============================================
+# MyPy
+# ============================================
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# ============================================
+# Pyre
+# ============================================
+.pyre/
+
+# ============================================
+# Pytype
+# ============================================
+.pytype/
+
+# ============================================
+# Rope
+# ============================================
+.ropeproject
+
+# ============================================
+# Celery
+# ============================================
+celerybeat-schedule
+celerybeat.pid
+
+# ============================================
+# SageMath
+# ============================================
+*.sage.py
+
+# ============================================
+# Spyder
+# ============================================
+.spyderproject
+.spyproject
+
+# ============================================
+# Rope
+# ============================================
+.ropeproject
+
+# ============================================
+# mkdocs
+# ============================================
+/site
+
+# ============================================
+# mypy
+# ============================================
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# ============================================
+# Pyre type checker
+# ============================================
+.pyre/
+
+# ============================================
+# Project Specific
+# ============================================
+# Compiled executables (keep dist structure)
+dist/*.exe
+dist/*.app
+dist/*.dmg
+
+# Keep dist folder structure
+!dist/.gitkeep
+
+# Build artifacts
+build/
+*.pkg
+*.dmg
+
+# Local configuration overrides
+config.local.json
+settings.local.json
