@@ -1,0 +1,210 @@
+{
+    "Matematik": {
+        "cozulen_soru": 0,
+        "son_calisma_tarihi": "2025-11-09",
+        "konular": [
+            {
+                "ad": "Matematik I - Türev ve İntegral",
+                "durum": "Yapılacak",
+                "baslangic_tarihi": "-",
+                "bitirme_tarihi": "-"
+            },
+            {
+                "ad": "Matematik II - Vektörler ve Diziler",
+                "durum": "Yapılacak",
+                "baslangic_tarihi": "-",
+                "bitirme_tarihi": "-"
+            }
+        ],
+        "hedef_soru": 500,
+        "category": "",
+        "priority": "medium",
+        "deadline": "",
+        "status": "active",
+        "description": "",
+        "created_date": "2025-11-09",
+        "tags": []
+    },
+    "Japonca": {
+        "cozulen_soru": 0,
+        "son_calisma_tarihi": "2025-11-09",
+        "konular": [
+            {
+                "ad": "Okuduğunu Anlama (Dokkai) - Temel Metinler",
+                "durum": "Devam Ediyor",
+                "baslangic_tarihi": "-",
+                "bitirme_tarihi": "-"
+            },
+            {
+                "ad": "Dinleme (Chōkai) - Soru Tipleri",
+                "durum": "Yapılacak",
+                "baslangic_tarihi": "-",
+                "bitirme_tarihi": "-"
+            }
+        ],
+        "hedef_soru": 500,
+        "category": "",
+        "priority": "medium",
+        "deadline": "",
+        "status": "active",
+        "description": "",
+        "created_date": "2025-11-09",
+        "tags": []
+    },
+    "Fizik": {
+        "cozulen_soru": 90,
+        "son_calisma_tarihi": "2025-11-09",
+        "konular": [
+            {
+                "ad": "Mekanik - Dinamik ve Enerji",
+                "durum": "Tamamlandı",
+                "baslangic_tarihi": "2025-11-09",
+                "bitirme_tarihi": "2025-11-09"
+            },
+            {
+                "ad": "Elektrik - Akım ve Direnç",
+                "durum": "Yapılacak",
+                "baslangic_tarihi": "-",
+                "bitirme_tarihi": "-"
+            }
+        ],
+        "hedef_soru": 5000,
+        "category": "",
+        "priority": "medium",
+        "deadline": "",
+        "status": "active",
+        "description": "",
+        "created_date": "2025-11-09",
+        "tags": []
+    },
+    "Kimya": {
+        "cozulen_soru": 0,
+        "son_calisma_tarihi": "2025-11-09",
+        "konular": [
+            {
+                "ad": "Temel Stokiyometri ve Mol Kavramı",
+                "durum": "Yapılacak",
+                "baslangic_tarihi": "-",
+                "bitirme_tarihi": "-"
+            },
+            {
+                "ad": "Organik Kimya - Giriş",
+                "durum": "Yapılacak",
+                "baslangic_tarihi": "-",
+                "bitirme_tarihi": "-"
+            }
+        ],
+        "hedef_soru": 500,
+        "category": "",
+        "priority": "medium",
+        "deadline": "",
+        "status": "active",
+        "description": "",
+        "created_date": "2025-11-09",
+        "tags": []
+    },
+    "Biyoloji": {
+        "cozulen_soru": 0,
+        "son_calisma_tarihi": "2025-11-09",
+        "konular": [
+            {
+                "ad": "Hücre Biyolojisi ve Genetik",
+                "durum": "Yapılacak",
+                "baslangic_tarihi": "-",
+                "bitirme_tarihi": "-"
+            },
+            {
+                "ad": "Bitki Fizyolojisi",
+                "durum": "Yapılacak",
+                "baslangic_tarihi": "-",
+                "bitirme_tarihi": "-"
+            }
+        ],
+        "hedef_soru": 500,
+        "category": "",
+        "priority": "medium",
+        "deadline": "",
+        "status": "active",
+        "description": "",
+        "created_date": "2025-11-09",
+        "tags": []
+    },
+    "Tarih": {
+        "cozulen_soru": 0,
+        "son_calisma_tarihi": "2025-11-09",
+        "konular": [],
+        "hedef_soru": 500,
+        "category": "",
+        "priority": "medium",
+        "deadline": "",
+        "status": "active",
+        "description": "",
+        "created_date": "2025-11-09",
+        "tags": []
+    },
+    "Coğrafya": {
+        "cozulen_soru": 0,
+        "son_calisma_tarihi": "2025-11-09",
+        "konular": [],
+        "hedef_soru": 500,
+        "category": "",
+        "priority": "medium",
+        "deadline": "",
+        "status": "active",
+        "description": "",
+        "created_date": "2025-11-09",
+        "tags": []
+    },
+    "CSS": {
+        "cozulen_soru": 0,
+        "son_calisma_tarihi": "2025-11-09",
+        "konular": [],
+        "hedef_soru": 500,
+        "category": "",
+        "priority": "medium",
+        "deadline": "",
+        "status": "active",
+        "description": "",
+        "created_date": "2025-11-09",
+        "tags": []
+    },
+    "HTML": {
+        "cozulen_soru": 0,
+        "son_calisma_tarihi": "2025-11-09",
+        "konular": [],
+        "hedef_soru": 500,
+        "category": "",
+        "priority": "medium",
+        "deadline": "",
+        "status": "active",
+        "description": "",
+        "created_date": "2025-11-09",
+        "tags": []
+    },
+    "Python": {
+        "cozulen_soru": 0,
+        "son_calisma_tarihi": "2025-11-09",
+        "konular": [],
+        "hedef_soru": 500,
+        "category": "",
+        "priority": "medium",
+        "deadline": "",
+        "status": "active",
+        "description": "",
+        "created_date": "2025-11-09",
+        "tags": []
+    },
+    "safda": {
+        "cozulen_soru": 0,
+        "hedef_soru": 500,
+        "son_calisma_tarihi": "",
+        "konular": [],
+        "category": "",
+        "priority": "medium",
+        "deadline": "",
+        "status": "active",
+        "description": "",
+        "created_date": "2025-11-09",
+        "tags": []
+    }
+}
